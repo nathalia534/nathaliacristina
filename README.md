@@ -10,7 +10,7 @@
 - Git & GitHub  
 
 ## 📂 Projetos
-Em breve estarei adicionando meus primeiros projetos práticos!  
+- https://github.com/nathalia534/projeto-ola-mundo.git
 
 ## 🌐 Onde me encontrar
 - LinkedIn: https://www.linkedin.com/in/nathalia-cristina-b307bb378/
